@@ -1,6 +1,15 @@
 # BMP 이미지 그레이스케일 변환 소프트웨어
 
+### base image
 <img width="320" height="320" alt="brainct_001" src="https://github.com/user-attachments/assets/60efb670-acae-411a-8f13-886e434d0e8d" />
+
+### grayscale
+<img width="320" height="320" alt="output_grayscale" src="https://github.com/user-attachments/assets/1aae6d9f-ba9d-4989-940e-94e03c50c865" />
+
+### Sobel_filter
+<img width="320" height="320" alt="output_edge_sobel" src="https://github.com/user-attachments/assets/e85a4bd0-9e3a-4c0f-8efe-6aa3e77f3eba" />
+
+
 
 ### 문서 관리 정보
 - 문서 ID: BMP-DO178C-001
